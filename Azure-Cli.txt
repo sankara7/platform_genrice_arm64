@@ -1,0 +1,14 @@
+Install Azure Cli
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
+
+
+Azure CLI initial steps for repo creation
+https://www.dotnetcurry.com/devops/1528/azure-devops-cli
+
+Azure cli commands
+https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/repos?view=azure-cli-latest
+
+
+
+
+
